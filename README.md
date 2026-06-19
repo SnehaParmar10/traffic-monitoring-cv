@@ -1,4 +1,4 @@
-11# Computer Vision Analysis for Traffic Monitoring
+# Computer Vision Analysis for Traffic Monitoring
 
 A comprehensive Python project implementing edge detection, object representation, feature extraction, and comparative analysis for traffic monitoring applications.
 
